@@ -20,4 +20,5 @@ Python (Pandas, Matplotlib) and basic HTML/CSS.
 
 Live dashboard
 
-https://stanerab.github.io/nhs-hospital-performance/nhs_hospital_performance_dashboard.html
+
+https://stanerab.github.io/nhs-hospital-performance/
