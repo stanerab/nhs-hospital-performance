@@ -12,7 +12,7 @@ The NHS operational standard requires that **92% of patients on an incomplete el
 
 Based on monthly data from late 2024 to September 2025:
 
-- **Neither trust meets the 92% standard** — and neither does the national average (~62%). The gap between current reality and the operational target is the biggest story in the data.
+- **Neither trust meets the 92% standard** and neither does the national average (~62%). The gap between current reality and the operational target is the biggest story in the data.
 - **Northumbria consistently outperforms the national average by ~20 percentage points**, holding steady around 80% throughout the period (latest: **82.6%**).
 - **Birmingham sits below the national average**, running ~7–10 points behind for most of the period before climbing sharply from mid-2025 onwards (latest: **59.0%** vs national **61.8%**).
 - **Yearly averages** are stable for Northumbria (~80% in both 2024 and 2025) and slightly improving for Birmingham (51% → 53%).
